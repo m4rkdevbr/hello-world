@@ -1,0 +1,9 @@
+#hello-word {
+  color: blue;
+  font-family: Arial, sans-serif;
+  border: 2px solid black;
+  padding: 10px;
+  text-align: center;
+  width: 200px;
+  margin: 20px auto;
+}
